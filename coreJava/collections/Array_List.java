@@ -3,6 +3,7 @@ package collections;
 import java.util.ArrayList;
 
 public class Array_List {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int simple_array[] = new int[5];
 		ArrayList<Integer> myList = new ArrayList<Integer>(5);

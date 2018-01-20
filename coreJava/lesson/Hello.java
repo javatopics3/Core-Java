@@ -1,4 +1,4 @@
-package lesson1;
+package lesson;
 
 public class Hello {
 	static int age;// static field

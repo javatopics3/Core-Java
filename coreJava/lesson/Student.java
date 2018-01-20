@@ -1,4 +1,4 @@
-package lesson1;
+package lesson;
 
 public class Student {
 	int id;
